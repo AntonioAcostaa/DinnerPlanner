@@ -1,5 +1,4 @@
 export default {
-    //config options
-    base: "/DinnerPlanner/",
-  };
-  
+  //config options
+  base: "/DinnerPlanner/",
+};
